@@ -12,6 +12,14 @@ L'objectif du projet était de découvrir des relations entre variables à l'aid
  
 Le jeu de données utilisé n'est pas public et n'est donc pas fourni dans ce repository. En revanche, le notebook contenant tout le travail effectué est disponible.
 
+## Installation
+
+Clonez le repository et exécutez la commande suivante dans une invite de commande pour installer les librairies nécessaires à l'exécution du code :
+
+```
+pip install -r requirements.txt
+```
+
 ## Licence
 
 Ce projet est distribué sous une licence ouverte, ce qui signifie qu'il est totalement libre et sans restrictions. Vous êtes libre d'utiliser, modifier et distribuer ce code sans aucune limitation.
